@@ -21,7 +21,7 @@
   font-size: 96px;
   line-height: 100px;
   text-align: center;
-  margin: 0, auto;
+  margin: 0 auto;
 }
 
 .header__subtitle {
@@ -64,6 +64,6 @@
   .header__title {
     max-width: 530px;
     font-size: 75px;
-    line-height: 79x;
+    line-height: 79px;
   }
 }
