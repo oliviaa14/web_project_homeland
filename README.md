@@ -14,5 +14,5 @@ Para este proyecto se utilizaron los siguientes conceptos:
 - Diseño responsivo
 - Media queries
 
-La direccipon URL es la siguiente:
+La dirección URL es la siguiente:
 https://oliviaa14.github.io/web_project_homeland/
