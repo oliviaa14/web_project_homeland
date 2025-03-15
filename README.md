@@ -14,5 +14,7 @@ Para este proyecto se utilizaron los siguientes conceptos:
 - Diseño responsivo
 - Media queries
 
-La dirección URL es la siguiente:
+Para la segunda parte del proyecto se utilizaron los conceptos de grid y flexbox; de igual manera se incorporó la parte responsiva para que la página sea compatible en diferentes pantallas.
+
+El proyecto se puede consultar en la siguiente página:
 https://oliviaa14.github.io/web_project_homeland/
